@@ -1,0 +1,13 @@
+{
+  "pluginName": "remove-background",
+  "version": "1.4",
+  "description": "去除图片背景",
+  "keywords": [
+    "Background Removal"
+  ],
+  "entry": "index.html",
+  "pluginType": "ui",
+  "mode": "multi",
+  "author": "",
+  "homepage": "https://github.com/app-toolkit/remove-background-web"
+}
