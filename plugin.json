@@ -5,7 +5,7 @@
   "keywords": [
     "Background Removal"
   ],
-  "entry": "index.html",
+  "entry": "dist/index.html",
   "pluginType": "ui",
   "mode": "multi",
   "author": "",
